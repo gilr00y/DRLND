@@ -10,7 +10,6 @@ class ReplayBuffer:
 
     def __init__(self, action_size, buffer_size, batch_size, seed):
         """Initialize a ReplayBuffer object.
-
         Params
         ======
             action_size (int): dimension of each action
