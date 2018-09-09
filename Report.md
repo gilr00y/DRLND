@@ -79,6 +79,10 @@ how often to update the network
 
 ### Performance
 
+![Screenshot 2018-09-09 15.39.43](Screenshot 2018-09-09 15.39.43.png)
+
+![reward plot](reward_plot.png)
+
 ### Future Improvements
 
 #### Double DQN

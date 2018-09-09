@@ -10,7 +10,7 @@ The Banana environment is a 3D "box" in which bananas randomly appear.  These ba
 
 Here is a gif of the agent on a training run:
 
-![banana_train](/Users/gilr00y/Dropbox/Udacity/DRLND/banana_train.gif)
+![banana_train](banana_train.gif)
 
 
 
@@ -45,7 +45,7 @@ The Banana environment is episodic. It is considered "solved" when the agent sco
 These instructions assume a recent version of macOS, and was tested on High Sierra (v10.13.2).
 
 1. Ensure Python 3.6 is installed. This can be done by running `python --version` from the command line (or occasionally `python3 --version`). If not installed, it can be retrieved [here](https://www.python.org/downloads/mac-osx/).
-2. Ensure "Banana.app" (included in the repo) opens correctly.  Double-clicking in "Finder" should yield the visual of a blank environment.![Screenshot 2018-09-09 16.02.44](/Users/gilr00y/Dropbox/Udacity/DRLND/Screenshot 2018-09-09 16.02.44.png)
+2. Ensure "Banana.app" (included in the repo) opens correctly.  Double-clicking in "Finder" should yield the visual of a blank environment.![Screenshot 2018-09-09 16.02.44](Screenshot 2018-09-09 16.02.44.png)
 3. Install the python runtime dependencies listed in `requirements.txt` by running `pip install -r requirements.txt` from the top level of this repo.
 
 ### Running the DQN
